@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este proyecto, haciendo uos de la [API](https://developers.mercadolibre.com.ar/es_ar/api-docs-es) de Mercadolibre, se obtiene tanto en formato JSON en archivos txt los siguientes resultados:
+En este proyecto, haciendo uos de la [API](https://developers.mercadolibre.com.ar/es_ar/api-docs-es) de Mercadolibre, se obtiene tanto en formato JSON como en archivos txt los siguientes resultados:
 
 
 1. Todos los ítems publicados por el seller_id = ```179571326``` del site_id = "```MLA```".
